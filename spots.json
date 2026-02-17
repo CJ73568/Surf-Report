@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Kitty Hawk",
+    "slug": "kitty-hawk",
+    "lat": 36.0654,
+    "lon": -75.7068,
+    "tideStationId": "8651370",
+    "facing": 90,
+    "description": "Classic OBX beach break, best on NW winds.",
+    "camera": null,
+    "model_grid_point": { "office": "MHX", "x": 32, "y": 80 }
+  },
+  {
+    "name": "Nags Head",
+    "slug": "nags-head",
+    "lat": 35.9579,
+    "lon": -75.6240,
+    "tideStationId": "8652587",
+    "facing": 90,
+    "description": "Reliable peaks, offshore on W/NW winds.",
+    "camera": null,
+    "model_grid_point": { "office": "MHX", "x": 30, "y": 76 }
+  },
+  {
+    "name": "Rodanthe",
+    "slug": "rodanthe",
+    "lat": 35.5882,
+    "lon": -75.4652,
+    "tideStationId": "8652587",
+    "facing": 95,
+    "description": "Exposed to open Atlantic, picks up more swell.",
+    "camera": null,
+    "model_grid_point": { "office": "MHX", "x": 28, "y": 70 }
+  },
+  {
+    "name": "Buxton",
+    "slug": "buxton",
+    "lat": 35.2668,
+    "lon": -75.5313,
+    "tideStationId": "8654467",
+    "facing": 120,
+    "description": "Cape Hatteras — world-class when it fires.",
+    "camera": null,
+    "model_grid_point": { "office": "MHX", "x": 26, "y": 62 }
+  },
+  {
+    "name": "Atlantic Beach",
+    "slug": "atlantic-beach",
+    "lat": 34.6979,
+    "lon": -76.7322,
+    "tideStationId": "8656483",
+    "facing": 180,
+    "description": "South-facing Bogue Banks, offshore on N winds.",
+    "camera": null,
+    "model_grid_point": { "office": "MHX", "x": 18, "y": 48 }
+  },
+  {
+    "name": "Surf City",
+    "slug": "surf-city",
+    "lat": 34.4357,
+    "lon": -77.5490,
+    "tideStationId": "8658163",
+    "facing": 150,
+    "description": "Topsail Island — consistent beach break.",
+    "camera": null,
+    "model_grid_point": { "office": "ILM", "x": 20, "y": 52 }
+  },
+  {
+    "name": "Wrightsville Beach",
+    "slug": "wrightsville-beach",
+    "lat": 34.2090,
+    "lon": -77.7965,
+    "tideStationId": "8658163",
+    "facing": 135,
+    "description": "Wilmington's home break. Best on NW winds.",
+    "camera": null,
+    "model_grid_point": { "office": "ILM", "x": 18, "y": 46 }
+  },
+  {
+    "name": "Carolina Beach",
+    "slug": "carolina-beach",
+    "lat": 34.0393,
+    "lon": -77.8988,
+    "tideStationId": "8658163",
+    "facing": 135,
+    "description": "Southern end of the coast. Fun beach break.",
+    "camera": null,
+    "model_grid_point": { "office": "ILM", "x": 16, "y": 42 }
+  }
+]
