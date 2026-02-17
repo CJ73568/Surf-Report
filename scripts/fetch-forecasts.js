@@ -1,4 +1,4 @@
-javascript// scripts/fetch-forecasts.js
+// scripts/fetch-forecasts.js
 // Runs every 3 hours via GitHub Actions.
 // Writes one JSON file per spot into public/data/forecasts/
 
