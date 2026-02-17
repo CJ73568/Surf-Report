@@ -1,0 +1,13 @@
+{
+  "name": "surf-forecast",
+  "version": "1.0.0",
+  "description": "NC surf forecast app",
+  "scripts": {
+    "fetch": "node scripts/fetch-forecasts.js",
+    "dev": "npx serve public"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18"
+  }
+}
